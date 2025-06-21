@@ -18,7 +18,7 @@ The platform allows users to:
 
 ## 🌐 Deployed URL
 
-Frontend: [https://your-frontend.vercel.app](https://your-frontend.vercel.app)  
+Frontend: [https://prep-pilot-chi.vercel.app/](https://prep-pilot-chi.vercel.app/)  
 Backend API: [https://preppilot-api.onrender.com](https://preppilot-api.onrender.com)
 
 
