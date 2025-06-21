@@ -17,7 +17,7 @@ function App() {
   //   const res = await axios.get()
   // }, [])
   useEffect(() => {
-  axios.get('http://localhost:5000/api/test-auth', { withCredentials: true })
+  axios.get('https://preppilot-api.onrender.com/api/test-auth', { withCredentials: true })
     .then((res) => {
       if(res.data.userId) {setIsLoggedIn(true)
         console.log("USER LOGGED IN")}
